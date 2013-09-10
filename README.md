@@ -1,4 +1,3 @@
-raf-stats – requestAnimationFrame performance monitor
-=====================================================
+# raf-stats
 
-Under the development now. First build coming soon...
+Testing [bookmark link](<javascript:(function(){var script=document.createElement('script');script.src='https://raw.github.com/msrch/raf-stats/wip/build/raf-stats.min.js';document.body.appendChild(script);}());>)
