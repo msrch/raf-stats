@@ -4,7 +4,7 @@
 
 It will provide you an information box with statistisc. This will help you to monitor performance of you site based on `requestAnimationFrame` feature.
 
-### Statistics
+## Statistics
 
 By default 4 different views/modes are embedded in this app. It should be easy to create a new custom views.
 
@@ -21,7 +21,7 @@ By default 4 different views/modes are embedded in this app. It should be easy t
   Displays current FPS and MS and ★average values.   
   ![Simple chart](http://msrch.github.io/raf-stats/imgs/monitor-view-simple.png)
 
-### Usage
+## Usage
 
 You can include this script as a part of your page or you can "bookmark it" so you can run it on any site you want.
 
@@ -32,7 +32,7 @@ javascript:(function(){var script=document.createElement('script');script.src='h
 
 Or you can drag and drop a link from this [site](http://msrch.github.io/raf-stats/) directly to your favourites bar.
 
-### Actions
+## Actions
 
 You can run this app on desktop and also on portable devices – supports touch. There are following actions/gestures:
 
@@ -43,7 +43,7 @@ You can run this app on desktop and also on portable devices – supports touch.
 * **Swipe or drag vertically**   
   Reset the statistics.
 
-### API
+## API
 
 App exists as `RAFstats` object in the global space. You can call following methods:
 
@@ -58,6 +58,6 @@ App exists as `RAFstats` object in the global space. You can call following meth
 * **.toggleSides()**   
   Toggle canvas position between top-right and top-left corner.
 
-### Notes
+## Notes
 
 This app requires `canvas` and `requestAnimationFrame` support to work. Tested on latest Chrome, Firefox and iOS6.
